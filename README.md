@@ -33,6 +33,6 @@ https://public.tableau.com/app/profile/alex.heyman5422/viz/VirginiaSFACBudgetDat
 
 ## Files
 
-Data - contains the csv file of the clean budget datas
-Code- includes the .twbx file of the dashboard
-Images - includes screen shots from the dashboard
+- Data - contains the csv file of the clean budget datas
+- Code- includes the .twbx file of the dashboard
+- Images - includes screen shots from the dashboard
