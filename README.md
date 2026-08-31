@@ -18,7 +18,6 @@ The data comes from the Department of Planning and Budget (DPB) website and cove
 
 - Data cleaning
 - Pivoting and modifying null data
-- Statistical analysis
 - Tableau visualization
 
 ## Dashboard
