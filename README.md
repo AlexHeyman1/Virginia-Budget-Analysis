@@ -25,6 +25,13 @@ The data comes from the Department of Planning and Budget (DPB) website and cove
 
 https://public.tableau.com/app/profile/alex.heyman5422/viz/VirginiaSFACBudgetDataMain_17882190877520/0-MainDash?publish=yes
 
+## Project Outcomes
+
+- Transformed a complex government budget dataset into an accessible and interactive public-facing dashboard
+- Enabled users to explore Virginia's budget at both the secretariat and agency levels
+- Designed interactive filters and visualizations to make budget information easier to navigate and interpret
+
+
 ## Tools
 
 - Tableau
