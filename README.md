@@ -2,23 +2,26 @@
 
 ## Overview
 
-This project is an accessible dashboard intended for the public to show Virginia's state budget information.
+This project transforms Virginia's state budget data into an accessible, interactive dashboard designed to help the public explore and understand state spending.
 
-## Research Questions
+## Project Goals
 
-- How has the Virginia budget changed over the last 10 years?
-- What agencies have seen the greatest changes over time?
-- How can Virginians conveniently look at budget at the agency and secretariat levels?
+- Make complex Virginia budget data easier to navigate and interpret.
+- Allow users to explore budget information at both the secretariat and agency levels.
+- Provide an interactive way to examine changes in Virginia's budget over time.
 
 ## Data
 
-The data comes from the Department of Planning and Budget (DPB) website and covers 2016-2026. The variables worked with include Fiscal Year, Fund Type, Secretarial Area, Agency Title, and Budget.
+The data comes from the Department of Planning and Budget (DPB) website and covers fiscal years 2016-2026. Key variables include Fiscal Year, Fund Type, Secretarial Area, Agency Title, and Budget.
 
 ## Methods
 
-- Data cleaning
-- Pivoting and modifying null data
-- Tableau visualization
+- Data cleaning and preparation
+- Restructuring and pivoting data
+- Addressing missing and inconsistent data
+- Organizing data across fiscal years
+- Developing interactive data visualizations
+- Tableau dashboard development
 
 ## Dashboard
 
@@ -39,6 +42,6 @@ https://public.tableau.com/app/profile/alex.heyman5422/viz/VirginiaSFACBudgetDat
 
 ## Files
 
-- Data - contains the csv file of the clean budget datas
-- Tableau- includes the .twbx file of the dashboard
-- Images - includes screen shots from the dashboard
+- Data - Contains cleaned budget dataset.
+- Tableau- Contains the .twbx Tableau workbook.
+- Images - Contains screenshots of the dashboard.
